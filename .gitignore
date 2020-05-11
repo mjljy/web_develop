@@ -62,3 +62,4 @@ target/
 .ipynb_checkpoints
 /mjljy/.vscode/
 /mjljy/.idea/
+.idea/
