@@ -65,6 +65,12 @@ Flask 主要依赖＝个库J
 * Jinja2: 默认的模板引擎。
 * Werkzeug : 一个包含WSGI 、路巾、调试的T具集。
 * Itsdangerous: 基千Django 签名校块( http://bit.ly/28QV7Fb ) 的签名实现
+##hello world 一个简单的wsgi程序 Python Web Server Gateway Interface 
+开启一个https服务器 浏览器访问 然后根据url调用指定的函数 返回数据到页面
+##配置管理
+##调试模式
+##动态URL规则  有用  做参数解析
+##自定义URL转换器
 
 
 
