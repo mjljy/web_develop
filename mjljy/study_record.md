@@ -1,4 +1,4 @@
-#*chapter1*
+*chapter1*
 1、Q1:为什么使用python开发web Q2:python2 or python3 >> python3
 * 至少熟悉一种Python Web-框架                                       >0分
 * 熟悉Python 语法。                                                >6分
@@ -56,6 +56,9 @@ hibiscus initdb --dbname=testdb
 实现环境的相互独立 互不干扰
 *创建 virtualenv venv 
 *激活 source venv / bin/activate
+*退出 deactivate
+可以看到当前使用的就是一个虚拟的python环境
+ip:http://192.168.56.1/
 ####虚拟环境的创建
 
 
